@@ -75,7 +75,6 @@ and prints the corresponding star pattern.
 
 <img width="1055" height="418" alt="image" src="https://github.com/user-attachments/assets/149d753f-2deb-4769-b59b-1a6747f13811" />
 
-
 ---
 
 ### Type 2
