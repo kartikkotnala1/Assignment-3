@@ -291,7 +291,7 @@ tom
 
 **Screenshot:**
 
-> Insert Screenshot Here
+<img width="966" height="154" alt="image" src="https://github.com/user-attachments/assets/62fbfdcf-aee3-44fd-975a-ee7b4312cada" />
 
 ---
 
@@ -311,7 +311,7 @@ cat
 
 **Screenshot:**
 
-> Insert Screenshot Here
+<img width="1482" height="152" alt="image" src="https://github.com/user-attachments/assets/c91211f7-7b27-4dc2-b910-03ee1ee3fed2" />
 
 ---
 
@@ -331,7 +331,7 @@ tomcat
 
 **Screenshot:**
 
-> Insert Screenshot Here
+<img width="1482" height="180" alt="image" src="https://github.com/user-attachments/assets/8a090e81-3ecf-4c13-92cb-613caefb09b7" />
 
 ---
 
@@ -352,7 +352,7 @@ tomcat
 
 **Screenshot:**
 
-> Insert Screenshot Here
+<img width="1483" height="156" alt="image" src="https://github.com/user-attachments/assets/2a99cc94-625b-4720-a559-17d2e529e835" />
 
 ---
 
