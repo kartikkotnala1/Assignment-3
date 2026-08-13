@@ -73,7 +73,7 @@ and prints the corresponding star pattern.
 
 **Screenshot:**
 
-<img width="1055" height="418" alt="SELinux Screenshot" src="https://github.com/user-attachments/assets/149d753f-2deb-4769-b59b-1a6747f13811" />
+<img width="1482" height="290" alt="image" src="https://github.com/user-attachments/assets/ea41627e-8974-47e2-8a53-eb6bfad94b9f" />
 
 ---
 
