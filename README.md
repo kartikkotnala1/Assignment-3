@@ -25,8 +25,9 @@ The assignment contains two shell scripts:
 ```text
 Assignment3/
 │
-├── drawStar.sh
+├── Problem-Statement
 ├── printTomcat.sh
+└── drawStar.sh
 └── README.md
 ```
 
